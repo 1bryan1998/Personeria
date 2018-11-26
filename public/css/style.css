@@ -1,0 +1,22 @@
+.dropzone {
+    min-height: 150px;
+    background: #fff;
+    border: none
+}
+
+.dropzone .dz-default.dz-message {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transition: opacity .3s ease-in-out;
+    -moz-transition: opacity .3s ease-in-out;
+    -o-transition: opacity .3s ease-in-out;
+    -ms-transition: opacity .3s ease-in-out;
+    transition: opacity .3s ease-in-out;
+    background-image: url(../img/fileupload/fileupload-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 160px;
+    padding-top: 140px;
+    color: #c3d7e2
+}
